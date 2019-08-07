@@ -12,6 +12,8 @@
   "author": "jianqing",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^12.7.0"
+    "@types/express": "^4.17.0",
+    "@types/node": "^12.7.0",
+    "express": "^4.17.1"
   }
 }
