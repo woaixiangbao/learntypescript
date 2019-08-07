@@ -1,0 +1,17 @@
+{
+  "name": "learn-typescript",
+  "version": "1.0.0",
+  "description": "learn typeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "jianqing",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.7.0"
+  }
+}
